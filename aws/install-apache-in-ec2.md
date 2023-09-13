@@ -7,20 +7,20 @@
 2. 프로젝트 폴더 들어가서 아파치 설치
 
 ```bash
-// 설치 가능한 리스트 업데이트
+## 설치 가능한 리스트 업데이트
 sudo atp-get update 
 or
 sudo yum update -y
 
-// 아파치 설치
+## 아파치 설치
 sudo apt-get install apache2
 or
 sudo yum install httpd -y
 
-// 설치 확인
+## 설치 확인
 apache2-v
 
-// 아파치 시작
+## 아파치 시작
 sudo systemctl start httpd
 or
 sudo service apache2 start
