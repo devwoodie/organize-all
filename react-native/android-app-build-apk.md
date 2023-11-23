@@ -1,5 +1,4 @@
 ## React Native Android apk파일 추출 (release 모드)
-> - 안드로이드 스튜디오에서 진행
 
 1. keystore 만들기
 ```bash
